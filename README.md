@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Utushow
-- 👀 I’m interested in data science & physics
+- 👀 I’m interested in data science 
 - 🌱 I’m currently learning ... python
 - 📫 How to reach me ... carrot#4353 
